@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "807955860309",
+    "project_id": "hidenseekvr",
+    "storage_bucket": "hidenseekvr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807955860309:android:a65960656de31d94f8fddc",
+        "android_client_info": {
+          "package_name": "com.umt.hidenseekvr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807955860309-qp7r21qrjhbhcrsicfcof36ge3aflq21.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzfqH9zONNvML2TCkGVpZpw9NQ6IVfnW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807955860309-qp7r21qrjhbhcrsicfcof36ge3aflq21.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
